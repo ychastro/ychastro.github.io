@@ -1,11 +1,10 @@
 header{
     background-size: cover;     
     background-position: center; 
-    background-color: rgb(175, 174, 191);               
+    background-color: lightsteelblue;               
     margin: 0%;
-    padding: 10% 0% 10% 0%;
+    padding: 7% 0% 7% 0%;
 }
-
 
 
 
@@ -48,8 +47,9 @@ body a {
     text-decoration: none;
 }
 
+
 .paper-link {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 
