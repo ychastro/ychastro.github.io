@@ -13,7 +13,7 @@ body{
     background-color: whitesmoke;
     color: black;
     font-family: Palatino, Georgia, "Times New Roman";
-    font-size: 1.8rem; 
+    font-size: 2rem; 
     line-height: 1.5;
     margin: 0;
     display: flex;
@@ -28,7 +28,7 @@ body{
     width: 220px; 
     height: auto; 
     float: left; 
-    margin: 3% 5% 3% 2%; 
+    margin: 0% 5% 0% 2%; 
     border-radius: 10%; 
 }
 
@@ -39,6 +39,7 @@ body{
     margin: 0% 3% 10% 3%;
     flex: 1;
 }
+
 
 
 
